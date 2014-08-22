@@ -11,4 +11,4 @@ LİNGVOSOFT ta teşekür ederiz ve egitim için oldugunu söyleriz :D
 hocamız ENGÜR PİŞİRİCİ 
 Çalışma arkadaslarım : EFE CAN İCÖZ,CEREMCEM ARSLAN Teşekür ederim ...
 
-güzel bir calısma idi #lkd,#LinuxYazKampi
+güzel bir calısma idi #lkd,#LinuxYazKampi .
